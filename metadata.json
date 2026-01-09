@@ -1,0 +1,7 @@
+{
+  "name": "NexusPay Virtual Cards",
+  "description": "A high-end fintech dashboard for issuing virtual Visa/Mastercards, managing BDT/USD wallets, and tracking international ad spend.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
